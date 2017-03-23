@@ -1,0 +1,25 @@
+{
+  "name": "react-detect-print-example",
+  "version": "0.0.1",
+  "description": "Example usage of react-detect-print.",
+  "author": "Drew Goodwin <drew@drewgoodwin.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tacomanator/react-detect-print-example.git"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-detect-print": "^0.0.1",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
