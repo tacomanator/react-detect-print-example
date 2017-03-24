@@ -9,6 +9,7 @@
     "url": "https://github.com/tacomanator/react-detect-print-example.git"
   },
   "dependencies": {
+    "element-resize-event": "^2.0.9",
     "react": "^15.4.2",
     "react-detect-print": "^0.0.1",
     "react-dom": "^15.4.2"

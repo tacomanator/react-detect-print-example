@@ -1,4 +1,5 @@
 import React from "react";
+import Width from "./Width";
 
 const style = {
   flex: "1 auto",
@@ -15,6 +16,7 @@ class Child extends React.Component {
   render = () => (
     <div style={style}>
       <h2>Printing? {JSON.stringify(this.props.printing)}</h2>
+      <Width />
     </div>
   );
 }
