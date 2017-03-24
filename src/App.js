@@ -11,8 +11,8 @@ const mapPropsToStyle = props => ({
   borderColor: "black",
   textAlign: "center",
   boxSizing: "border-box",
-  mozBoxSizing: "border-box",
-  webkitBoxSizing: "border-box",
+  MozBoxSizing: "border-box",
+  WebkitBoxSizing: "border-box",
   width: props.printing ? 816 - margin * 2 : null
 });
 
