@@ -4118,9 +4118,9 @@ rc@^1.1.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-react-detect-print@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/react-detect-print/-/react-detect-print-0.0.1.tgz#6f613ee79e71843a46dafca78afbf2e1d732df67"
+react-detect-print@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/react-detect-print/-/react-detect-print-0.0.2.tgz#44ba5de07c835166e4f72332cda014c23732fdef"
 
 react-dev-utils@^0.5.2:
   version "0.5.2"
